@@ -1,17 +1,17 @@
 {
   "packages": [
     {
-      "name": "awwende",
-      "maintainer": "The Giant",
-      "websiteURL": "wendeblog.com",
-      "email" : "techsupport@wendeblog.com",
-      
-	  
-	  
+      "name": "SparkFun",
+      "maintainer": "SparkFun Electronics",
+      "websiteURL": "https://SparkFun.com",
+      "email": "TechSupport@SparkFun.com",
+      "help": {
+        "online": "https://learn.sparkfun.com/tutorials/installing-arduino-ide/board-add-ons-with-arduino-board-manager"
+      },
 	  "platforms":
       [
         {
-          "name": "AWWENDE Test Boards",
+          "name": "SparkFun ESP32 Boards",
           "architecture": "esp32",
           "version": "0.0.1",
           "category": "Contributed",
@@ -20,9 +20,9 @@
           "checksum": "SHA-256:37567B4F810DAED61D54CD9A6276C0C6F339101E1460764E751D8CD90A21A081",
           "size": "33159193",
           "boards": [
-            {
-              "name": "ESP32 Dev Module"
-            }
+            { "name": "SparkFun ESP32 Thing" },
+			{ "name": "SparkFun ESP32 Thing Plus"},
+			{ "name": "SparkFun Lora Gateway 1-Channel" }
           ],
           "toolsDependencies": [
             {
