@@ -13,12 +13,12 @@
         {
           "name": "SparkFun ESP32 Boards",
           "architecture": "esp32",
-          "version": "0.0.1",
+          "version": "0.0.2",
           "category": "Contributed",
-		  "url": "https://github.com/awwende/test/raw/master/IDE_Board_Manager/awwende-esp32-0.0.1.tar.bz2",
-          "archiveFileName": "awwende-esp32-0.0.1.tar.bz2",
-          "checksum": "SHA-256:37567B4F810DAED61D54CD9A6276C0C6F339101E1460764E751D8CD90A21A081",
-          "size": "33159193",
+		  "url": "https://github.com/awwende/test/raw/master/IDE_Board_Manager/awwende-esp32-0.0.2.tar.bz2",
+          "archiveFileName": "awwende-esp32-0.0.2.tar.bz2",
+          "checksum": "SHA-256:043A13DDB2901E9A9CEEE6A0D7AE1AE43680BBD13E6AF6451409799C66E819B9",
+          "size": "33162833",
           "boards": [
             { "name": "SparkFun ESP32 Thing" },
 			{ "name": "SparkFun ESP32 Thing Plus"},
